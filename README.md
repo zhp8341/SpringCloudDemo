@@ -13,6 +13,7 @@ springcloud 1.4.3
 #目录下的sh文件介绍
 
 eclipse_eclipse.sh 项目变成eclipse工程  mvn eclipse:eclipse -DdownloadSources=true  -U
+
 build.sh    编译和构建 内容 mvn clean install package -Dmaven.test.skip=true -U
 
 #文章地址
