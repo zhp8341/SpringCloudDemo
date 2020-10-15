@@ -29,3 +29,7 @@ http://www.ccblog.cn/97.htm 【微服务架构】SpringCloud之Feign(五)
 http://img.ccblog.cn/img/20170321/soa-1-640.png
 
 ![Image text](http://img.ccblog.cn/img/20170321/soa-1-640.png)
+
+ <p align='center'>
+ <img src='http://img.ccblog.cn/img/20170321/soa-1-640.png' title='images' style='max-width:600px'></img>
+ </p>
